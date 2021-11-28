@@ -1,0 +1,35 @@
+{
+  "Flights": [
+    {
+      "id": 1,
+      "vetrekLocatie": "Amsterdam",
+      "aankomstLocatie": "Lissabon",
+      "vetrekDatum": "02/12/2021",
+      "aantalPersonen": "2"
+    },
+
+    {
+      "id": 2,
+      "vetrekLocatie": "Amsterdam",
+      "aankomstLocatie": "Faro",
+      "vetrekDatum": "02/12/2021",
+      "aantalPersonen": "1"
+    },
+
+    {
+      "id": 3,
+      "vetrekLocatie": "Amsterdam",
+      "aankomstLocatie": "London",
+      "vetrekDatum": "02/12/2021",
+      "aantalPersonen": "2"
+    },
+
+    {
+      "id": 3,
+      "vetrekLocatie": "Dublin",
+      "aankomstLocatie": "New York",
+      "vetrekDatum": "02/12/2021",
+      "aantalPersonen": "2"
+    }
+  ]
+}
